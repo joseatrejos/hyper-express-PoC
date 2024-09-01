@@ -1,0 +1,1 @@
+curl -X PUT -d '{"name": "Updated Item", "description": "Updated description"}' -H "Content-Type: application/json" http://localhost:80/expedientes/3

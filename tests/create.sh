@@ -1,0 +1,1 @@
+curl -X POST -d '{"name": "Item 1", "description": "This is item 1"}' -H "Content-Type: application/json" http://localhost:80/expedientes
